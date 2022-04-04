@@ -28,7 +28,3 @@ function download__photo(input)
     }
 }
 }
-function profile()
-{
-    document.querySelector('.profile__menu').classList.toggle("profile__menu__active");
-}
